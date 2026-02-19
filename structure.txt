@@ -1,0 +1,51 @@
+python-oop-concepts/
+│
+├── README.md
+├── requirements.txt
+│
+├── 01_basics/
+│   ├── class_and_object.py
+│   ├── constructor_destructor.py
+│   ├── instance_vs_class_variables.py
+│   └── methods_types.py
+│
+├── 02_core_oop_principles/
+│   ├── encapsulation.py
+│   ├── abstraction.py
+│   ├── inheritance.py
+│   ├── polymorphism.py
+│   └── method_overriding.py
+│
+├── 03_advanced_oop/
+│   ├── multiple_inheritance.py
+│   ├── method_resolution_order.py
+│   ├── operator_overloading.py
+│   ├── duck_typing.py
+│   └── magic_methods.py
+│
+├── 04_design_patterns_basics/
+│   ├── singleton.py
+│   ├── factory_pattern.py
+│   └── strategy_pattern.py
+│
+├── 05_practice_problems/
+│   ├── problem_01_bank_account.py
+│   ├── problem_02_student_management.py
+│   ├── problem_03_library_system.py
+│   └── problem_04_employee_hierarchy.py
+│
+├── 06_mini_projects/
+│   ├── library_management_system/
+│   │   ├── main.py
+│   │   ├── models.py
+│   │   └── utils.py
+│   │
+│   └── parking_lot_system/
+│       ├── main.py
+│       ├── vehicle.py
+│       └── parking.py
+│
+└── notes/
+    ├── oops_interview_questions.md
+    ├── important_points.md
+    └── common_mistakes.md
